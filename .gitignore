@@ -1,0 +1,6 @@
+/target/
+*.apk
+*.aab
+*.dwarf
+*.jks
+

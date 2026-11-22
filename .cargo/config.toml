@@ -1,0 +1,8 @@
+﻿[target.aarch64-linux-android]
+linker = ""
+ar = "/toolchains/llvm/prebuilt/windows-x86_64/bin/llvm-ar.exe"
+
+[env]
+CC_aarch64-linux-android = ""
+CXX_aarch64-linux-android = "++"
+AR_aarch64-linux-android = "/toolchains/llvm/prebuilt/windows-x86_64/bin/llvm-ar.exe"
